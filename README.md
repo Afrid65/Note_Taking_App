@@ -6,6 +6,7 @@ HTML,
 CSS,
 
 backend
+SQl
 
 
 
